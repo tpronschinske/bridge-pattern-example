@@ -1,0 +1,11 @@
+C:\Users\tpronschinske\Desktop\Personal\BridgePattern\BridgePattern\BridgePattern\obj\Debug\netcoreapp2.2\BridgePattern.csprojAssemblyReference.cache
+C:\Users\tpronschinske\Desktop\Personal\BridgePattern\BridgePattern\BridgePattern\obj\Debug\netcoreapp2.2\BridgePattern.csproj.CoreCompileInputs.cache
+C:\Users\tpronschinske\Desktop\Personal\BridgePattern\BridgePattern\BridgePattern\obj\Debug\netcoreapp2.2\BridgePattern.AssemblyInfoInputs.cache
+C:\Users\tpronschinske\Desktop\Personal\BridgePattern\BridgePattern\BridgePattern\obj\Debug\netcoreapp2.2\BridgePattern.AssemblyInfo.cs
+C:\Users\tpronschinske\Desktop\Personal\BridgePattern\BridgePattern\BridgePattern\bin\Debug\netcoreapp2.2\BridgePattern.deps.json
+C:\Users\tpronschinske\Desktop\Personal\BridgePattern\BridgePattern\BridgePattern\bin\Debug\netcoreapp2.2\BridgePattern.runtimeconfig.json
+C:\Users\tpronschinske\Desktop\Personal\BridgePattern\BridgePattern\BridgePattern\bin\Debug\netcoreapp2.2\BridgePattern.runtimeconfig.dev.json
+C:\Users\tpronschinske\Desktop\Personal\BridgePattern\BridgePattern\BridgePattern\bin\Debug\netcoreapp2.2\BridgePattern.dll
+C:\Users\tpronschinske\Desktop\Personal\BridgePattern\BridgePattern\BridgePattern\bin\Debug\netcoreapp2.2\BridgePattern.pdb
+C:\Users\tpronschinske\Desktop\Personal\BridgePattern\BridgePattern\BridgePattern\obj\Debug\netcoreapp2.2\BridgePattern.dll
+C:\Users\tpronschinske\Desktop\Personal\BridgePattern\BridgePattern\BridgePattern\obj\Debug\netcoreapp2.2\BridgePattern.pdb
